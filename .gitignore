@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+.idea/
+cmake-build-debug/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
