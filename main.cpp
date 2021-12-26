@@ -1,6 +1,9 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int main()
+{
+    int a, b;
+    scanf("%d%d", &a, &b);
+    printf("%d %d\n", a, b);
     return 0;
 }
