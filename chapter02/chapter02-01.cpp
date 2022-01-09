@@ -7,12 +7,11 @@
 
 int main()
 {
-    using namespace std;
     system("chcp 65001");
-//    setlocale(LC_ALL, "zh-CN");
-    cout << "My name is coder\n";
-    cout << "My address is beijing\n";
-    cout << "我是小码匠";
-    cout << "我家住在北京市";
+    std::cout << "My name is Cynthia.";
+    std::cout << "我叫靳灏芊，我家住北苑家园";
     return 0;
 }
+
+
+
