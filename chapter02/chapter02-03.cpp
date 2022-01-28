@@ -1,9 +1,3 @@
-//
-<<<<<<< HEAD
-// Created by 86135 on 2021/12/26.
-//
-
-=======
 // 编程练习：2.7.3
 //
 // 参考资料列表：
@@ -29,4 +23,3 @@ void two()
 {
    cout << "See how they run" << endl;
 }
->>>>>>> feature/feature_20220101
