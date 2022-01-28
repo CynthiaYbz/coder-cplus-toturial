@@ -1,8 +1,3 @@
-//
-<<<<<<< HEAD
-// Created by 86135 on 2021/12/26.
-//
-=======
 // 编程练习：2.7.7
 //
 // 参考资料列表：
@@ -26,5 +21,4 @@ void times(int hours, int minutes)
 {
     cout << "Time: " << hours << ":" << minutes << endl;
 }
->>>>>>> feature/feature_20220101
 

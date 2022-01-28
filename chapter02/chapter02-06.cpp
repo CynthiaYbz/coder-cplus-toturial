@@ -1,9 +1,3 @@
-//
-<<<<<<< HEAD
-// Created by 86135 on 2021/12/26.
-//
-
-=======
 // 编程练习：2.7.6
 //
 // 参考资料列表：
@@ -25,4 +19,3 @@ double convert(double l)
 {
     return 63240 * l;
 }
->>>>>>> feature/feature_20220101

@@ -1,9 +1,3 @@
-//
-<<<<<<< HEAD
-// Created by 86135 on 2021/12/26.
-//
-
-=======
 // 编程练习：2.7.5
 //
 // 参考资料列表：
@@ -25,4 +19,3 @@ float degrees(float c)
 {
     return c * 1.8 + 32.0;
 }
->>>>>>> feature/feature_20220101

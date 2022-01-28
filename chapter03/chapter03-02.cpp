@@ -1,9 +1,3 @@
-//
-// Created by 86135 on 2021/12/27.
-//
-
-<<<<<<< HEAD
-=======
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -19,4 +13,3 @@ int main()
     cout << "Your BIM is " << sqrt((ft / convert_height_inch + inch) * convert_height) / (weight / convert_weight);
     return 0;
 }
->>>>>>> feature/feature_20220101
