@@ -7,8 +7,22 @@
 #include <iostream>
 #include <string>
 using namespace std;
+struct CandyBar
+{
+    string brand;
+    float weight;
+    int calorie;
+};
+
 int main()
 {
-
-    return 0;
+    CandyBar snack = {
+            "Mocha Munch",
+            2.3,
+            350
+    };
+    cout << "Brand: " << snack.brand << endl;
+    cout << " Weight: " << snack.weight << endl;
+    cout << " Calorie: " << snack.calorie;
+    return  0;
 }

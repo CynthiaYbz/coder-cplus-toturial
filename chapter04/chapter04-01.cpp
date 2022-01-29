@@ -6,7 +6,6 @@
 //
 //
 #include <iostream>
-#include <cstring>
 using namespace std;
 int main()
 {
@@ -18,15 +17,20 @@ int main()
 
     cout << "What is your first name? ";
     cin.getline(first_name,len);
+
     cout << "What is your last name? ";
     cin.getline(last_name,len);
+
     cout << "What letter grade do you deserve? ";
     cin >> letter_grade;
+
     cout << "What is your age? ";
     cin >> age;
+
     cout << "Name: " << last_name << ", " << first_name << endl;
     cout << "Grade: " << char(letter_grade + 1) << endl;
     cout << "Age: " << age;
+
     return 0;
 }
 
