@@ -6,10 +6,10 @@
 //
 #include <iostream>
 using namespace std;
-const int SIZE = 40;
+const int size = 40;
 struct Pizza
 {
-    char companyName[SIZE];
+    char companyName[size];
     float diameter;
     float weight;
 };

@@ -8,11 +8,11 @@
 #include <string>
 using namespace std;
 
-const int SIZE = 40;
+const int size = 40;
 
 struct Pizza
 {
-    char companyName[SIZE];
+    char companyName[size];
     float diameter;
     float weight;
 };
@@ -27,7 +27,7 @@ int main()
     //cin.getline(pi->companyName, 20);
 
     cout << "Pizza’s Comapny： ";
-    cin.getline((*pizza).companyName, SIZE);
+    cin.getline((*pizza).companyName, size);
 
     cout << "CandBar's weights): ";
     cin >> (*pizza).weight;
