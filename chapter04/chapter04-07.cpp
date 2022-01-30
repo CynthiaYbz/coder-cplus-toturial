@@ -19,7 +19,7 @@ int main()
     Pizza pizza;
     cout << "Enter the pizza's information: " << endl;
     cout << "Pizza's Company: ";
-    cin.getline(pizza.companyName, SIZE);
+    cin.getline(pizza.companyName, size);
 
     cout << "Pizza's diameter(inchs): ";
     cin >> pizza.diameter;

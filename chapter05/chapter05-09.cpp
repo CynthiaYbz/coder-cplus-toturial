@@ -7,8 +7,11 @@
 #include <iostream>
 #include <string>
 using namespace std;
-int main()
-{
-
-    return 0;
+int main() {
+    string words[20];
+    int i;
+    cout << "Enter number of rows: ";
+    cin.getline(words, 20);
+    for (i = 0; i == ; i++)
+        return 0;
 }

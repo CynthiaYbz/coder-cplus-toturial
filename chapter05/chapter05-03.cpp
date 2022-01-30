@@ -9,6 +9,12 @@
 using namespace std;
 int main()
 {
-
+    int num = 0;
+    int input_number;
+    for (int i = 1; i != 0; i = input_number){
+        cin >> input_number;
+        num += input_number;
+        cout << num << endl;
+    }
     return 0;
 }
