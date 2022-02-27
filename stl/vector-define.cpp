@@ -12,7 +12,6 @@ void print_vector(vector <int>& v);
 void print_vector(vector <string>& v);
 int main()
 {
-
     // 定义一个存储学生年龄的int类型元素的vector容器
     vector<int> ages;
     print_vector(ages);
