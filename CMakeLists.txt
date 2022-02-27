@@ -100,3 +100,11 @@ add_executable(chapter17_01 chapter17/chapter17-01.cpp)
 
 add_executable(chapter18_01 chapter18/chapter18-01.cpp)
 
+
+add_executable(vector-define stl/vector-define.cpp)
+add_executable(vector-add stl/vector-add.cpp)
+add_executable(vector-assign stl/vector-assign.cpp)
+add_executable(vector-remove stl/vector-remove.cpp)
+add_executable(vector-get stl/vector-get.cpp)
+add_executable(vector-traversing stl/vector-traversing.cpp)
+add_executable(vector-other stl/vector-other.cpp)
