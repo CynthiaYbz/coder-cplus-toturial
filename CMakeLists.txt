@@ -108,3 +108,6 @@ add_executable(vector-remove stl/vector-remove.cpp)
 add_executable(vector-get stl/vector-get.cpp)
 add_executable(vector-traversing stl/vector-traversing.cpp)
 add_executable(vector-other stl/vector-other.cpp)
+
+add_executable(forward_list stl/forward_list.cpp)
+add_executable(list stl/list.cpp)
